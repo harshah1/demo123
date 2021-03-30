@@ -1,3 +1,7 @@
 this is the third file 
 this is the second line
 this is the third line
+hello ,this is typed by using vi editor
+esc:i
+:wq!
+those are the commands used in vi editor
